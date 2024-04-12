@@ -1,2 +1,1 @@
 # 3DRestaurantMenu_JavaScript
-3DRestaurantMenu_JavaScript
